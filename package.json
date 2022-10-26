@@ -1,0 +1,15 @@
+{
+  "name": "intercept-http",
+  "version": "1.0.0",
+  "main": "src/background.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/firefox-webext-browser": "94.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,14 @@
+{
+    "description": "Intercept webrequest",
+    "manifest_version": 2,
+    "name": "intercept-http",
+    "version":"1.0",
+    "permissions": [
+        "webRequest",
+        "<all_urls>",
+        "downloads"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
