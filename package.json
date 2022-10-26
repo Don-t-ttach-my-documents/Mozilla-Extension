@@ -1,7 +1,7 @@
 {
   "name": "intercept-http",
   "version": "1.0.0",
-  "main": "src/background.ts",
+  "main": "src/intercept-http.ts",
   "scripts": {
     "build": "tsc"
   },

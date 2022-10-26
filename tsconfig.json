@@ -9,5 +9,9 @@
     "outDir": "dist",
     "rootDir": "src",
     "resolveJsonModule": true
-  }
+  },
+  "include": [
+    "src/manifest.json",
+    "src/*.ts"
+  ]
 }
